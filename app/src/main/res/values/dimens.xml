@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="margin_310">310dp</dimen>
+    <dimen name="margin_65">65dp</dimen>
+    <dimen name="margin_24">24dp</dimen>
+    <dimen name="text_size_34">34sp</dimen>
+    <dimen name="margin_25">25dp</dimen>
+    <dimen name="text_size_17">17sp</dimen>
+    <dimen name="margin_48">48dp</dimen>
+    <dimen name="margin_20">20dp</dimen>
+    <dimen name="height_47">47dp</dimen>
+    <dimen name="margin_32">32dp</dimen>
+    <dimen name="textsize_15">15sp</dimen>
+</resources>
